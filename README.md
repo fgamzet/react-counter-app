@@ -18,7 +18,7 @@ To run the project, you need to have the following software installed:
 Follow the steps below to get the development environment running.
 
 1. Clone the repository to your local machine using the following command:
-git clone https://github.com/your-username/react-counter-app.git
+git clone https://github.com/fgamzet/react-counter-app.git
 2. Change into the project directory:
 cd react-counter-app
 3. Install the dependencies:
